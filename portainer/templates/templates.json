@@ -11095,7 +11095,7 @@
           "name": "YTDL_WRITEINFOJSON",
           "label": "YTDL_WRITEINFOJSON",
           "description": "",
-          "default": true,
+          "default": "true",
           "preset": false
         },
         {
@@ -11217,7 +11217,7 @@
           "name": "YTDL_WRITEINFOJSON",
           "label": "YTDL_WRITEINFOJSON",
           "description": "",
-          "default": true,
+          "default": "true",
           "preset": false
         },
         {
