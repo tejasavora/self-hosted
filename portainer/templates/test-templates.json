@@ -1,0 +1,18 @@
+{
+  "version": "2",
+  "templates": [
+    {
+      "type": 1,
+      "title": "Test App",
+      "name": "test-app",
+      "description": "A simple test application",
+      "platform": "linux",
+      "categories": ["Test"],
+      "logo": "https://portainer.io/images/logos/portainer.png",
+      "image": "nginx:latest",
+      "ports": ["8080:80/tcp"],
+      "volumes": [],
+      "env": []
+    }
+  ]
+}
