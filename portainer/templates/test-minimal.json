@@ -1,0 +1,17 @@
+{
+  "version": "3",
+  "templates": [
+    {
+      "id": 1,
+      "type": 1,
+      "title": "Test Nginx",
+      "name": "test-nginx",
+      "description": "Simple test template",
+      "platform": "linux",
+      "categories": ["Test"],
+      "logo": "https://portainer.io/images/logos/portainer.png",
+      "image": "nginx:latest",
+      "ports": ["80/tcp"]
+    }
+  ]
+}
